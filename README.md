@@ -1,4 +1,9 @@
-<h1>Thoriso Dibatana</h1>
+<h1 align = "center" >Thoriso Dibatana</h1>
+
+<ul type = "none">
+  <li>Final year BSc Computer Science student</li>
+  <li>Aspiring Software Engineer</li>
+</ul>
 
 <!--
 **whileNotEOThori/whileNotEOThori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

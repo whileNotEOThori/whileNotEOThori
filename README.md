@@ -1,9 +1,8 @@
 <h1 align = "center" >Thoriso Dibatana</h1>
-<h2 align = "center" >Final year BSc Computer Science student | Aspiring Software Engineer</h2> 
-<br/>
 
  <div align="center"> 
-   <a href="https://linkedin.com/in/thoriso-dibatana" target="_blank">
+  <h2 align = "center" >Final year BSc Computer Science student | Aspiring Software Engineer</h2> 
+  <a href="https://linkedin.com/in/thoriso-dibatana" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>

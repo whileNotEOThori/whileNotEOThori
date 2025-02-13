@@ -10,6 +10,19 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
+
+<h2 align="center">Languages</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,java,python,html,css,php,sql,mongodb" />
+</div>
+
+<h2 align="center">Tools</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github" /><br>
+</div>
+
 <!--
 **whileNotEOThori/whileNotEOThori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

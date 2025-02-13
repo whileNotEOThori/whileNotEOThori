@@ -14,7 +14,7 @@
 <h2 align="center">Languages</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,java,python,html,css,php,sql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,java,python,html,css,php,mysql,mongodb" />
 </div>
 
 <h2 align="center">Tools</h2>

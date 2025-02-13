@@ -11,15 +11,13 @@
   </a>
 </div>
 
-<h2 align="center">Languages</h2>
-<br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,java,python,html,css,php,mysql,mongodb" />
-</div>
+  <h2 align="center">Languages</h2>
+  <br/>
+    <img src="https://skillicons.dev/icons?i=cpp,cs,java,python,html,css,php,SQL,mongodb" />
 
 <h2 align="center">Tools</h2>
 <br/>
-<div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,git,github" /><br>
 </div>
 

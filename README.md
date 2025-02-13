@@ -1,5 +1,6 @@
 <h1 align = "center" >Thoriso Dibatana</h1>
-**Final year BSc Computer Science student | Aspiring Software Engineer**
+<h2 align = "center" >Final year BSc Computer Science student | Aspiring Software Engineer</h2> 
+<br/>
 
  <div align="center"> 
    <a href="https://linkedin.com/in/thoriso-dibatana" target="_blank">

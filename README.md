@@ -9,7 +9,7 @@
 
 <div align="center">
   <h2 align="center">Languages</h2>
-    <img src="https://skillicons.dev/icons?i=cpp,cs,java,python,html,css,php,SQL,mongodb" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,java,python,html,css,php,mysql,mongodb" />
 
 <h2 align="center">Tools</h2>
     <img src="https://skillicons.dev/icons?i=vscode,git,github" /><br>
